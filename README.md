@@ -15,15 +15,11 @@ Make sure you have R installed on your machine.
    ```bash
    git clone https://github.com/your-username/mba-starting-salaries-analysis.git
 
-###Usage
-
-Open R or RStudio.
-Run the R script (analysis_script.R) to perform the analysis.
-
-###Contributing
+## Contributing
 
 Feel free to contribute by opening an issue or submitting a pull request.
 
-###License
+## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
